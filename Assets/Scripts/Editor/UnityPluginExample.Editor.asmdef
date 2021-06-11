@@ -1,8 +1,12 @@
 ﻿{
-    "name": "UnityPluginTemplate.Runtime",
+    "name": "UnityPluginExample.Editor",
     "rootNamespace": "",
-    "references": [],
-    "includePlatforms": [],
+    "references": [
+        "UnityPluginExample.Runtime"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
     "excludePlatforms": [],
     "allowUnsafeCode": false,
     "overrideReferences": false,

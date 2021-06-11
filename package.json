@@ -1,6 +1,6 @@
 {
-  "name": "com.plugin.unityplugintemplate",
-  "displayName": "UnityPluginTemplate",
+  "name": "com.plugin.unitypluginexample",
+  "displayName": "unitypluginexample",
   "version": "0.0.1",
   "unity": "2019.4",
   "description": "Plugin from unity template. Update package.json with your plugin's information.",
